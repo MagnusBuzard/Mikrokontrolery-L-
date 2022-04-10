@@ -1,3 +1,5 @@
+//Napisać program migający LED co 500ms.
+
 void setup() 
 {
   pinMode(13, OUTPUT);
