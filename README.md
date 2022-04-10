@@ -1,2 +1,2 @@
 # Mikrokontrolery-L-
-Zadania z labolatorów z mikrokontrolerów (Multifunctionalshield Arduino)
+Zadania z labolatorów z mikrokontrolerów (Multifunctionashield Arduino)
