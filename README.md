@@ -3,11 +3,11 @@ Zadania z labolatorów z mikrokontrolerów (Multifunctionshield Arduino)
 
 # Lab 1 GPIO
 1. [Wbudowana dioda LED gaśnie po sekundzie od włączenia.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.1/1.1.ino)
-2. Migający LED co 500 ms.
-3. Zapalanie LED, jeżeli przycisk jest naciśnięty.
-4. Zmiana stanu LED na przeciwny za każdym razem gdy przycisk zostanie naciśnięty. Drugi LED miga co 2 s.
-5. Mruganie 4 LEDami, częstotliwość ich mrugania ustawiana za pomocą przycisku. 4 widoczne częstotliwości.
-6. Liczanie naciśnięć przycisku na 4 LEDach.
+2. [Migający LED co 500 ms.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.2/1.2.ino)
+3. [Zapalanie LED, jeżeli przycisk jest naciśnięty.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.3/1.3.ino)
+4. [Zmiana stanu LED na przeciwny za każdym razem gdy przycisk zostanie naciśnięty. Drugi LED miga co 2 s.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.4/1.4.ino)
+5. [Mruganie 4 LEDami, częstotliwość ich mrugania ustawiana za pomocą przycisku. 4 widoczne częstotliwości.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.5/1.5.ino)
+6. [Liczanie naciśnięć przycisku na 4 LEDach.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.6/1.6.ino)
 
 # Lab 2 TimerOne i EXTI
 1. Migający LED co 500 ms, z wykorzystaniem timera.
