@@ -2,7 +2,7 @@
 Zadania z labolatorów z mikrokontrolerów (Multifunctionshield Arduino)
 
 # Lab 1 GPIO
-1. Wbudowana dioda LED gaśnie po sekundzie od włączenia.
+1. [Wbudowana dioda LED gaśnie po sekundzie od włączenia.](https://github.com/MagnusBuzard/Mikrokontrolery-L-/blob/main/Programy%20z%20lab%C3%B3w/Lab1/1.1/1.1.ino)
 2. Migający LED co 500 ms.
 3. Zapalanie LED, jeżeli przycisk jest naciśnięty.
 4. Zmiana stanu LED na przeciwny za każdym razem gdy przycisk zostanie naciśnięty. Drugi LED miga co 2 s.
