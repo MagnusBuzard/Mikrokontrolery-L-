@@ -1,4 +1,4 @@
-# Mikrokontrolery-L-
+# Mikrokontrolery (L)
 Zadania z labolatorów z mikrokontrolerów (Multifunctionshield Arduino)
 
 # Lab - 1 GPIO
